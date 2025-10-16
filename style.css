@@ -1,0 +1,11 @@
+header{
+    height: 80px;
+    background-color:blue;
+}
+li{
+    color:white;
+    list-style-type:none;
+}
+ul{
+    padding: 50px;
+}
